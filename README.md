@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosetche&label=Profile%20views&color=0e75b6&style=flat" alt="marcosetche" /> </p>
 
-- 🔭 I've been working on **Tata Consultancy Services**
+- 🌱 I’m currently learning **Node**
 
-- 🌱 I’m currently learning **Node.js, React, Angular**
-
-- 👯 I’m looking for a job as a **Developer**
+- 👯 I’m looking for a job as a **Junior Developer**
 
 - 💬 Ask me about **Java, Javascript**
 
-- 📫 How to reach me **marcosge007@outlook.com**
+- 📫 How to reach me **marcosetchebarnedev@gmail.com**
 
 - 📄 Know about my experiences on my LinkedIn [https://www.linkedin.com/in/marcosetche/](https://www.linkedin.com/in/marcosetche/)
 
